@@ -37,12 +37,12 @@
     <distributionManagement>
         <repository>
             <id>nexus</id>
-            <name>maven-releases</name>
+            <name>nexus</name>
             <url>https://676d9bd8.ngrok.io/repository/maven-releases</url>
         </repository>
         <snapshotRepository>
             <id>nexus</id>
-            <name>maven-snapshots</name>
+            <name>nexus</name>
             <url>https://676d9bd8.ngrok.io/repository/maven-snapshots</url>
         </snapshotRepository>
     </distributionManagement>
